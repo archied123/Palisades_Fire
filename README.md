@@ -1,0 +1,1 @@
+his project uses Google Earth Engine (GEE) with the Python API to analyze the impact of the January 2025 Los Angeles fires on the Palisades region. Sentinel-2 imagery is used to calculate NDVI, NDMI and nDBR indices to assess vegetation health and track recovery, and estimate the fire-affected area.
